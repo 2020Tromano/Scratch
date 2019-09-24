@@ -1,0 +1,29 @@
+Click green flag to start
+Sprite 1
+Once the green flag in clicked show sprite and move him to x -32, y -2
+Say"imma be late for school¨
+switch costumes from 1 to 2 on repeat 10 times
+Swtich back drop from Broadcast 1
+
+when broadcast 1 is recieved play
+Ask ¨how are you doing today¨ and wait for anwser.
+Only expect Good, repeat qustion until anwser=Good
+SWitch to puppy and backdrop to swirl.
+Broadcast 2
+
+When broadcast 2 is recieved play
+Puppy
+Say¨ I need your Help to stop the Cat, Please do not listen to him For he Is EVIL¨
+switch to sprite 1 and backdrop chalkboard 
+
+WHen sprite one is clicked play
+change custom to 2 
+Say¨ Zeep Error¨
+Switch to custom 2 
+hide
+
+WHen puppy is cicked play
+say¨ Ouch, I thought we were friends¨
+Chang coustom to 2 
+rotate 90
+hide
